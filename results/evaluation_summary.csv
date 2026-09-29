@@ -1,0 +1,7 @@
+Metric,Value
+Validation Accuracy,0.009174109101295472
+Validation Loss,0.2501169443130493
+Total Validation Images,10861.0
+Correct Predictions,9964.0
+Wrong Predictions,897.0
+Error Rate,0.0008258908019519381
